@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://chriscourses.com/brand/planetFightingGame.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://unsplash.com/pt-br/fotografias/kVKz9qnJC-k" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Samurai Arcade Game</h2>
  <p align="center">
 Repository created with the purpose of learning. This game was developed by Chriscourses in his game tutorial of his youtube channel</p>
